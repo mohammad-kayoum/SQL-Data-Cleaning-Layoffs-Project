@@ -19,3 +19,5 @@ This project focuses on cleaning a raw dataset of world layoffs to make it ready
 - Window Functions (`OVER`, `PARTITION BY`)
 - Common Table Expressions (CTEs)
 - Data Definition Language (DDL) & Data Manipulation Language (DML)
+
+![Data_cleaning1](Data_cleaning1.png)
